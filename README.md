@@ -83,6 +83,11 @@ wget -O subspace.sh https://raw.githubusercontent.com/thisislexar/Subspace-Gemin
 
 # Sorularınız ve merak ettikleriniz için: [LossNode Chat](https://t.me/LossNode)
 
+# `No journal files were found` hatası verirse alttaki komutu girip log komutunu tekrar deneyin:
+```
+systemctl restart systemd-journald.service
+```
+
 # Node silmek için: 
 
 ```

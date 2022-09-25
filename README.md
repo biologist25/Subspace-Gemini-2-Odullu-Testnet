@@ -81,6 +81,14 @@ wget -O subspace.sh https://raw.githubusercontent.com/thisislexar/Subspace-Gemin
 
 ![image](https://user-images.githubusercontent.com/101462877/191618055-08b15f5e-9c33-4c07-a9c3-5b8ca9ce64ec.png)
 
+
+# SÜREKLİ SORULDUĞU İÇİN BU UYARIYI YAPIYORUM, NODE'UNUZ GÜNCEL BLOĞU YAKALADIKTAN SONRA TSSC BİRİKMEYE BAŞLAR. AŞAĞIDAKİ GÖRSELLERDE GÖRDÜĞÜNÜZ ÜZERE NODE GÜNCEL BLOĞU YAKALAYAMAMIŞ. BU YÜZDEN TSSC BİRİKMEYECEK.
+
+![image](https://user-images.githubusercontent.com/101462877/192142962-1e7200b9-f30a-432e-b5d7-36413a014592.png)
+
+![image](https://user-images.githubusercontent.com/101462877/192142979-c27f09cc-f3aa-41e7-980b-e832ea076782.png)
+
+
 # Sorularınız ve merak ettikleriniz için: [LossNode Chat](https://t.me/LossNode)
 
 # `No journal files were found` hatası verirse alttaki komutu girip log komutunu tekrar deneyin:
